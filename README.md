@@ -1,4 +1,4 @@
-# Safaricom Volatility FModel : GARCH(1,1) 
+# Safaricom Volatility Model : GARCH(1,1) 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Gradio](https://img.shields.io/badge/Gradio-App-orange)
